@@ -3,7 +3,7 @@
 ### Context
 
 This repository contains a notebook with a solution for a detection/classification task.
-The task is solved by fine-tuning an EfficientNet_B3 for classification and detection.
+The task is solved by fine-tuning an EfficientNet_B1 for classification and detection.
 EfficientNet, originally created for casual classification tasks, is fine-tuned by adding
 several fc layers on top of the original model, splitting the model's output into two
 of size 4 and N_CLASS for bounding box coordinates and classes respectively.
