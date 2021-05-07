@@ -47,7 +47,6 @@ def get_train_test_valid_dataloaders(data_path, test_data_path, seed, image_size
     """
     Utility function for the model.
     """
-
     def build_data(data_path):
         content_list = []
         labels_list = []
