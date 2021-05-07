@@ -1,0 +1,7 @@
+best.pth
+*.txt
+!requirements.txt
+*.jpg
+.vscode
+.ipynb_checkpoints/
+src/

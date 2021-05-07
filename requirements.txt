@@ -1,0 +1,8 @@
+numpy==1.18.5
+tqdm==4.47.0
+opencv-python==4.5.1.48
+timm==0.3.4
+catalyst==20.12
+sklearn==0.0
+albumentations==0.5.2
+-e git://github.com/lessw2020/Ranger-Deep-Learning-Optimizer.git@master#egg=ranger
